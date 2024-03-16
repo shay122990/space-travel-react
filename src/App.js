@@ -9,7 +9,7 @@ import Technology from './pages/technology/Technology'
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/space-travel-react">
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/destination" element={<Destination />} />
