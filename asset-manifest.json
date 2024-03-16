@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/space-travel-react/static/css/main.f855e6bc.css",
-    "main.js": "/space-travel-react/static/js/main.ed977d30.js",
+    "main.js": "/space-travel-react/static/js/main.e3b762dd.js",
     "static/js/453.dafaa8af.chunk.js": "/space-travel-react/static/js/453.dafaa8af.chunk.js",
     "index.html": "/space-travel-react/index.html",
     "main.f855e6bc.css.map": "/space-travel-react/static/css/main.f855e6bc.css.map",
-    "main.ed977d30.js.map": "/space-travel-react/static/js/main.ed977d30.js.map",
+    "main.e3b762dd.js.map": "/space-travel-react/static/js/main.e3b762dd.js.map",
     "453.dafaa8af.chunk.js.map": "/space-travel-react/static/js/453.dafaa8af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ed977d30.js"
+    "static/js/main.e3b762dd.js"
   ]
 }
