@@ -3,7 +3,7 @@ import App from './App';
 
 test('renders Home link', () => {
   render(<App />);
-  const homeLinks = screen.getAllByText(/Home/i);
-  expect(homeLinks.length).toBeGreaterThan(0);
+  const homeLink = screen.getByText('Home');
+  expect(homeLink).toBeInTheDocument();
 });
 
